@@ -1,6 +1,8 @@
 # SiteConstelacao
  Site Responsivo: HTML5 +  CSS3
+
  Estudos baseados no vídeo: https://www.youtube.com/watch?v=gRIWFYRaVto
+ 
  Canal: Hostinger Brasil
  
 HTML5 
