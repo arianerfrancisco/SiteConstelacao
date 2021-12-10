@@ -1,0 +1,14 @@
+(<nav>)>> O Elemento HTML de Navegação (<nav>) representa uma seção de uma página que aponta
+ para outras páginas ou para outras áreas da página, ou seja, uma seção com links 
+ de navegação.
+ Ver mais: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/nav
+
+<header> O elemento HTML <header> representa um grupo de suporte introdutório ou navegacional.
+ Pode conter alguns elementos de cabeçalho mas também outros elementos 
+omo um logo, seções de cabeçalho, formulário de pesquisa, e outros.
+Ver mais: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/header
+
+<section> O elemento HTML <section> representa uma seção genérica contida em um documento HTML,
+ geralmente com um título, quando não existir um elemento semântico mais específico para 
+ representá-lo.
+ Ver mais: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/section
