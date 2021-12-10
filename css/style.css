@@ -1,11 +1,11 @@
 body {
     font-family: Nunito, sans-serif;
-    color: #1c1c1c;
+    color:blueviolet;
 }
 
 h1, h2, h3 {
     font-family: Asap, sans-serif;
-    color: #000000;
+    color: black;
 }
 
 /* Navegação*/
@@ -14,7 +14,7 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color:#191970;
+    background-color:#8d8db1;
 }
 
 nav > a {
@@ -41,7 +41,48 @@ nav ul li {
 
 nav ul li a {
     display:inline-block;
-    padding: 10 px 0;
+    padding: 10px 0;
     text-decoration: none;
-    color:#FFFFFF;
+    width: 100%;
+    color:rgb(23, 91, 208);
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../img/constelacao.jpg");
+    background-size: cover;
+    background-repeat: none;
+    background-position:center;
+    color:azure;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    color:azure;
+}
+
+header p {
+    margin-bottom: 2em;
+}
+
+#sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px 20px 20px;
+    color:blueviolet;
+    background-color: aqua;
+}
+
+#sobre h2 {
+    color:azure;
+}
+
+#sobre p {
+    margin-bottom: 2.5em;
+    max-width: 1000px;
 }
