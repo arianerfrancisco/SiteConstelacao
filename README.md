@@ -1,4 +1,7 @@
-# SiteConstelacao
+# Por Ariane Rocha: https://github.com/arianerfrancisco
+
+ SiteConstelacao
+
  Site Responsivo: HTML5 +  CSS3
 
  Estudos baseados no vídeo: https://www.youtube.com/watch?v=gRIWFYRaVto

@@ -1,6 +1,6 @@
 body {
     font-family: Nunito, sans-serif;
-    color:blueviolet;
+    color:rgb(61, 43, 226);
 }
 
 h1, h2, h3 {
@@ -74,7 +74,7 @@ header p {
     align-items: center;
     text-align: center;
     padding: 10px 10px 20px 20px;
-    color:blueviolet;
+    color:rgb(192, 87, 127);
     background-color: aqua;
 }
 
