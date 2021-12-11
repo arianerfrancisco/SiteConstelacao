@@ -22,3 +22,6 @@ Ver mais: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/header
 
  Extensão Live Server: Esta extensão do VSCode permite visualizar instantaneamente as 
  alterações no navegador. Após instalá-lo, procure pelo icone Go Live na IDE para ativar.
+
+ NOTA: A palavra-chave defer (adiar) em head <script>
+ faz com que o navegador aguarde até o documento ser carregado antes de executar o JavaScript
